@@ -11,6 +11,7 @@ public class Outer {
 
     public static void main(String[] args) {
         Outer outer = new Outer();
+        //Inner inner = new Inner(); - error
         Inner inner = outer.new Inner();
         // Доступ к полям внешнего класса
         inner.outer.i = 1;

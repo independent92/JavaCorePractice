@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1d8b67-cd6b-45d3-8820-1effacab835e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/jdbc/TryConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/exception/ExceptionStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/Factory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizzaDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/PizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThickPizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThinPizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/ConcreteCreator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/ConcreteCreator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/fabricMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCorePractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCorePractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/patterns/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/patterns/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/jdbc/TryConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/jdbc/TryConnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer$InnerChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer$InnerChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer$InnerStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer$InnerStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCorePractice/javaCorePractice/nested/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaCorePractice/nested/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCorePractice/nested/Outer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,107 +52,144 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/observer/EventManager.java">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Creator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="220">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/AbstractFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/Factory1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/jdbc/TryConnect.java">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThinPizzaBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-484">
-              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/Connection.java">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThickPizzaBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28387">
-              <caret line="172" column="7" lean-forward="true" selection-start-line="172" selection-start-column="7" selection-end-line="172" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/CallableStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="64" column="51" lean-forward="true" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/PreparedStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/observer/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+            <state relative-caret-position="154">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding>
-                <element signature="e#6252#6253#0" expanded="true" />
-                <element signature="e#6320#6321#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/util/List.java">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizzaDirector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4488">
-              <caret line="227" column="29" selection-start-line="227" selection-start-column="15" selection-end-line="227" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/observer/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="135">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/nested/SuperInner.java">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/PizzaBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/Pizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+              <folding>
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#977#978#0" expanded="true" />
+                <element signature="e#1320#1321#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/ConcreteCreator1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,6 +207,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>data</find>
+      <find>InnerChild</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,7 +225,6 @@
         <option value="$PROJECT_DIR$/src/pack/Outer2.java" />
         <option value="$PROJECT_DIR$/src/pack/Outer.java" />
         <option value="$PROJECT_DIR$/src/javaCorePractice/Outer.java" />
-        <option value="$PROJECT_DIR$/src/javaCorePractice/nested/Outer.java" />
         <option value="$PROJECT_DIR$/src/javaCorePractice/collections/hashCodeTest.java" />
         <option value="$PROJECT_DIR$/src/javaCorePractice/collections/Detail.java" />
         <option value="$PROJECT_DIR$/src/javaCorePractice/collections/HashCodeTest.java" />
@@ -183,6 +237,29 @@
         <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/observer/EventManager.java" />
         <option value="$PROJECT_DIR$/src/javaCorePractice/jdbc/FirstExample.java" />
         <option value="$PROJECT_DIR$/src/javaCorePractice/jdbc/TryConnect.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/exception.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/exception/ExceptionStatement.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/nested/Outer.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/Product.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/Product2.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/Product1.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/ConcreteCreator1.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/ConcreteCreator2.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/fabricMethod.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/fabricMethod/Creator.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Creator.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/Factory1.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizzaBuilder.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/PizzaBuilde.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/PizzaBuilder.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/SimplePizzaBuilder.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThinPizzaBuilder.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizzaDirector.java" />
+        <option value="$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThickPizzaBuilder.java" />
       </list>
     </option>
   </component>
@@ -203,7 +280,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,14 +308,15 @@
               <item name="JavaCorePractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaCorePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCorePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCorePractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaCorePractice" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factoryMethod" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaCorePractice" type="b2602c69:ProjectViewProjectNode" />
@@ -249,6 +326,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -256,10 +334,11 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551124121098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552151918134" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mb-backend/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.16015625" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -277,7 +356,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TryConnect">
+  <component name="RunManager" selected="Application.director">
+    <configuration name="AbstractFactory" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="javaCorePractice.patterns.abstractFactory.AbstractFactory" />
+      <module name="JavaCorePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionStatement" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="javaCorePractice.exception.ExceptionStatement" />
+      <module name="JavaCorePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashCodeTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="javaCorePractice.collections.HashCodeTest" />
       <module name="JavaCorePractice" />
@@ -306,6 +399,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="director" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="javaCorePractice.patterns.builder.DoubleCheesePizzaDirector" />
+      <module name="JavaCorePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factoryMethod" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="javaCorePractice.patterns.factoryMethod.fabricMethod" />
+      <module name="JavaCorePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -316,9 +423,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.factoryMethod" />
+      <item itemvalue="Application.AbstractFactory" />
+      <item itemvalue="Application.director" />
       <item itemvalue="Application.HashCodeTest" />
       <item itemvalue="Application.Observer" />
       <item itemvalue="Application.TryConnect" />
+      <item itemvalue="Application.ExceptionStatement" />
       <item itemvalue="Application.Outer" />
     </list>
     <recent_temporary>
@@ -345,11 +456,15 @@
       <workItem from="1551115956565" duration="2210000" />
       <workItem from="1551118276135" duration="1852000" />
       <workItem from="1551120149795" duration="3971000" />
+      <workItem from="1551208140395" duration="2159000" />
+      <workItem from="1551288115236" duration="2352000" />
+      <workItem from="1552138960889" duration="713000" />
+      <workItem from="1552139857409" duration="10142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31752000" />
+    <option name="totallyTimeSpent" value="47118000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -364,7 +479,7 @@
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.16473189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.16362631" />
       <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.16307352" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,8 +488,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50155765" side_tool="true" weight="0.16307352" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5391849" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4997236" visible="true" weight="0.24869384" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4997236" visible="true" weight="0.18390805" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498618" weight="0.29571578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991708" weight="0.08568443" />
@@ -382,10 +497,10 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291536" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291536" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002764" side_tool="true" visible="true" weight="0.24869384" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501382" side_tool="true" weight="0.29571578" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.06467662" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.057490326" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.20121615" />
@@ -394,6 +509,37 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49844238" visible="true" weight="0.16362631" />
+      <window_info id="Structure" order="1" sideWeight="0.50155765" side_tool="true" weight="0.16307352" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50155765" side_tool="true" weight="0.16307352" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" weight="0.18390805" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.498618" visible="true" weight="0.29571578" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991708" weight="0.08568443" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501382" side_tool="true" visible="true" weight="0.29571578" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3291536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.057490326" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.20121615" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32946378" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -463,20 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/nested/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/nested/Other.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaCorePractice/collections/Detail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -530,6 +662,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3256">
+          <caret line="172" column="7" selection-start-line="172" selection-start-column="7" selection-end-line="172" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/exception.java" />
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/jdbc/TryConnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/exception/ExceptionStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/nested/Other.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/CallableStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="64" column="51" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -573,33 +758,224 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/PreparedStatement.java">
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/observer/fabricMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/CallableStatement.java">
+    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="64" column="51" lean-forward="true" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+        <state relative-caret-position="238">
+          <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8.0_141/src.zip!/java/sql/Connection.java">
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28387">
-          <caret line="172" column="7" lean-forward="true" selection-start-line="172" selection-start-column="7" selection-end-line="172" selection-end-column="7" />
+        <state relative-caret-position="44">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/jdbc/TryConnect.java">
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-484">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/ConcreteCreator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/nested/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/fabricMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/ConcreteCreator1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Product1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/factoryMethod/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizzaBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/abstractFactory/Factory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/Thick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/PizzaBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThickPizzaBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/DoubleCheesePizzaDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCorePractice/patterns/builder/ThinPizzaBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
           </folding>
         </state>
       </provider>
